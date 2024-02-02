@@ -1,6 +1,4 @@
-import React from "react";
-
-// react-router-dom
+import React from "../node_modules/react/index.js";
 import Layout from "./Components/Layout";
 import Home from "./Components/Home";
 import Blogs from "./Components/Blogs";
@@ -10,7 +8,7 @@ import {
   Route,
   Routes,
 } from "../node_modules/react-router-dom/dist/index";
-import ReactDOM from "react-dom/client";
+import ReactDOM from "../node_modules/react-dom/index.js";
 export default function App() {
   return (
     <BrowserRouter>

@@ -1,4 +1,6 @@
-import react from "react";
+import React from "../../../node_modules/react/index";
+import { Link } from "../../../node_modules/react-router-dom/dist/index";
+
 export default function Home() {
   return (
     <div className="mx-auto w-full max-w-7xl">

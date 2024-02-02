@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "../../../node_modules/react-router-dom/dist/index";
 export default function Footer() {
   return (
     <footer className="bg-white border-y">

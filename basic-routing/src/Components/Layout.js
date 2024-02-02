@@ -1,4 +1,4 @@
-import { Outlet, Link } from "../../node_modules/react-router-dom/dist/index";
+import { Outlet, Link } from "../../node_modules/react-router-dom/dist/index.js";
 const Layout = () => {
   return (
     <>
