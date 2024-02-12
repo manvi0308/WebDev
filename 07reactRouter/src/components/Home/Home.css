@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@400;500&display=swap');
+
+
+.home {
+  position: relative;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.home img{
+  width: 100vw;
+}
+.manviDesc {
+  width: 40%;
+  position: absolute;
+  top: 30%;
+  left: 15%;
+}
+
+.manviDesc h1 {
+  color: white;
+  font-size: 3em;
+}
+
+.manviDesc p {
+  margin-top: 50px;
+  font-size: 1em;
+  color: white;
+}
+
+.manviDesc button {
+  margin-top: 50px;
+  padding: 12px 20px;
+  font-size: 1em;
+  background-color: white;
+  color: #002240;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+  margin-right: 20px;
+}
+.manviPhoto img {
+  position: absolute;
+  top: 30%;
+  right: 15%;
+  width: 25%;
+  border-radius: 50%;
+}

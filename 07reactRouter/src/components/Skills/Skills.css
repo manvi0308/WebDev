@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Oswald:wght@400;500&display=swap');
+
+.skills {
+  width: 100%;
+  border: 1px solid red;
+  font-family: 'Lato', sans-serif;
+
+}
+
+.skillsList {
+  width: 45%;
+  margin: 8% auto;
+  border: 1px solid green;
+}
+
+.skillsList h1 {
+  font-size: 32px;
+  text-align: center;
+  padding: 10px;
+}
+
+.skillsList li{
+    font-size: 22px;
+}
